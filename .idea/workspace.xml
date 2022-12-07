@@ -2,16 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d3df0e2-9c83-4a84-b5e8-4c453023812d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Meals/AvailableMeals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Meals/AvailableMeals.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Meals/Meals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Meals/MealsSummary.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Meals/MealsSummary.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Meals/MealItem/MealItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Meals/MealItem/MealItem.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Meals/MealItem/MealItemForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Card.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/4.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/4.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/9.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/9.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack.old" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Meals/AvailableMeals.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Meals/AvailableMeals.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +66,7 @@
       <recent name="$PROJECT_DIR$/src/assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Meals/MealItem" />
       <recent name="$PROJECT_DIR$/src/components/Cart" />
     </key>
   </component>
@@ -78,7 +80,8 @@
       <updated>1669857939917</updated>
       <workItem from="1669857942441" duration="1673000" />
       <workItem from="1669941614499" duration="1507000" />
-      <workItem from="1670287455817" duration="1583000" />
+      <workItem from="1670287455817" duration="1833000" />
+      <workItem from="1670373076365" duration="1427000" />
     </task>
     <servers />
   </component>
